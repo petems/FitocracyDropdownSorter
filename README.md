@@ -1,3 +1,9 @@
+#Deprecated
+
+As of 21/Mar/2013 
+Fitocracy now defaults to sorting the performance drop-down alphabetically now anyways, so this is no longer required :+1:
+
+
 FitocracyDropdownSorter
 =======================
 
